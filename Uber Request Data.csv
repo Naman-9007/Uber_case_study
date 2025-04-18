@@ -1,4 +1,3 @@
-# Uber_case_study
 Request id,Pickup point,Driver id,Status,Request timestamp,Drop timestamp
 619,Airport,1,Trip Completed,11/7/2016 11:51,11/7/2016 13:00
 867,Airport,1,Trip Completed,11/7/2016 17:57,11/7/2016 18:47
